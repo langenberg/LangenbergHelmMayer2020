@@ -10,4 +10,4 @@
 install.packages("devtools")
 
 # This line will install the semnova package.
-devtools::install_local("semnova_0.1-5.tar.gz")
+devtools::install_local("semnova_0.1-6.tar.gz")
