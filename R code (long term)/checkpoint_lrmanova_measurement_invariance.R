@@ -245,4 +245,4 @@ print(fits)
 
 ## this reverts changes to your libraries made by the checkpoint package
 uncheckpoint()
-delete_checkpoint("2020-04-24")
+delete_checkpoint("2020-06-30")
